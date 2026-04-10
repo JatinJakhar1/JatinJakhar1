@@ -1,35 +1,43 @@
 <h1 align="center">Hi 👋, I'm Jatin Jakhar</h1>
-<h3 align="center">🚀 AI Developer | Computer Vision | Deep Learning</h3>
+<h3 align="center">💻 Software Engineering Student | AI & Web Development Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Developer;Computer+Vision+Enthusiast;Flask+Developer;Building+Real+World+AI+Projects&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=DSA+Enthusiast;AI+%26+Computer+Vision;Web+Developer;Building+Real+World+Projects&center=true&width=500&height=45">
 </p>
 
 ---
 
 ## 🧠 About Me
 
-* 🎓 B.Tech CSE @ Chandigarh University
-* 🤖 Passionate about AI, ML & Computer Vision
-* 🏆 IIT Mandi Hackathon Runner-Up
-* 🚀 Building real-world AI-based applications
+* 🎓 B.Tech CSE @ Chandigarh University  
+* 💡 Interested in Data Structures, AI & Web Development  
+* 🤖 Exploring Computer Vision & Machine Learning  
+* 🚀 Building real-world projects to enhance practical skills  
 
 ---
 
 ## 🔥 Featured Projects
 
-* 🦴 Bone Fracture Detection AI
-* 🎓 Smart Attendance System (AI + Face Recognition)
-* 🌐 Personal Portfolio Website
-* 🌦️ Weather App
+* 🦴 **Bone Fracture Detection AI**  
+  → Computer Vision project for medical image analysis  
+
+* 🎓 **Smart Attendance System (Face Recognition)**  
+  → AI-based system using facial recognition  
+
+* 🌐 **Personal Portfolio Website**  
+  → Responsive website to showcase my work  
+
+* 🌦️ **Weather App**  
+  → API-based web application using JavaScript  
 
 ---
 
 ## 🛠️ Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,flask,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,git,github,vscode" />
 </p>
 
+---
 
 ## 📊 GitHub Stats
 
@@ -38,7 +46,6 @@
 </p>
 
 ---
-
 
 ## 🌍 Connect With Me
 
@@ -49,4 +56,4 @@
 
 ---
 
-🔥 *Building AI products that solve real-world problems*
+🔥 *Building projects across AI, DSA, and Web Development*
